@@ -1,0 +1,12 @@
+PROYECTO: SISTEMA INTELIGENTE PARA REFUGIOS DE ANIMALES
+
+INSTRUCCIONES PARA EJECUTAR EN VISUAL STUDIO:
+
+1. Descomprime este archivo .zip en una carpeta vacía.
+2. Crea un proyecto vacío de C++ en Visual Studio.
+3. Arrastra los archivos main.cpp e index.html a la carpeta de tu proyecto.
+4. ¡IMPORTANTE! Descarga la última versión de "crow_all.h" desde el link oficial:
+   https://github.com/CrowCpp/Crow/releases/latest/download/crow_all.h
+   Guarda ese archivo en la misma carpeta junto a main.cpp e index.html.
+5. Compila y ejecuta el proyecto.
+6. Abre tu navegador y visita: http://localhost:18080
